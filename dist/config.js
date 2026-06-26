@@ -7,7 +7,7 @@ const config = {
     clientId: '1520014646193684480', // bot id
     mongoUri: 'mongodb+srv://Galbash-Systeam-2:OFOZozOpEnIg2VaI@cluster0.fggmqfp.mongodb.net/?appName=Cluster0', // mongodb url
     defaultPrefix: '!',
-    mainGuildId: '1509687175678263396', // main guild id
+    mainGuildId: '1505579095038361681', // main guild id
     defaultLanguage: 'en',
     dashboard: {
         port: 3000,     // port for dashboard
