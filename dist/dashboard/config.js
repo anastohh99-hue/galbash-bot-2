@@ -5,7 +5,7 @@ const path_1 = require("path");
 const config = {
     token: 'MTUwOTY4NzE3NTY3ODI2MzM5Ng.GwQm6L.YbxVVhxa0_LcKSe--tpMJS4CNXr3rYxnUaL9FM', // token
     clientId: '1509687175678263396', // bot id
-    mongoUri: 'mongodb+', // mongodb url
+    mongoUri: 'mongodb+srv://Galbash-Systeam-2:OFOZozOpEnIg2VaI@cluster0.fggmqfp.mongodb.net/?appName=Cluster0', // mongodb url
     defaultPrefix: '!',
     mainGuildId: '1505579095038361681', // main guild id
     defaultLanguage: 'en',
